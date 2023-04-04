@@ -2,7 +2,7 @@
 Functional programming dan OOP (Object-Oriented Programming) adalah dua paradigma pemrograman yang berbeda. Di bawah ini adalah perbedaan antara keduanya:
 
 1. Functional Programming
-Functional Programming adalah paradigma pemrograman di mana program dikonstruksi dari fungsi-fungsi yang menerima input dan mengembalikan output. Program dipandang sebagai sebuah sekumpulan fungsi-fungsi yang saling terkait. Beberapa ciri dari Functional Programming antara lain:
+Functional Programming adalah paradigma pemrograman di mana program dikonstruksi dari fungsi-fungsi yang menerima input dan mengembalikan output. Program dipandang sebagai sebuah sekumpulan fungsi-fungsi yang saling terkait. Beberapa ciri dari Functional Programming antara lain.
 *. Tidak ada penggunaan variabel yang mutable (dapat diubah). Fungsi hanya bekerja pada input yang diberikan dan mengembalikan output tanpa mengubah data asli.
 *. Tidak ada side-effect (efek samping). Fungsi hanya memproses input dan mengembalikan output tanpa mempengaruhi data di luar fungsi.
 *. Immutability: data tidak dapat diubah setelah dibuat.
